@@ -1,2 +1,4 @@
 .DS_Store
 *.pyc
+.resin/
+node_modules/
