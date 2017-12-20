@@ -6,10 +6,6 @@ $ cd cli-multi-playground
 $ npm install
 ```
 
-## Configuration
-
-Change `RESINRC_API_URL` in `index.js` to point to a multi-container Resin instance.
-
 ## Running
 
 ```
